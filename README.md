@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @imawcksn
-- 👀 I’m interested in Mobile App Development & AI
-- 🌱 I’m currently learning WeChat Mini Program Development
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me gmail/@imamwicaksonosuherman
-- 😄 Pronouns: -
-- ⚡ Fun fact: -
+Hi 👋, My name is Imam Wicaksono!
+A passionate mobile developer from Indonesia
+🔭 I’m currently working on WeChat Mini Program
 
-<!---
-imawcksn/imawcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning TypeScript
+
+👨‍💻 All of my projects are available at linkedin.com/in/imawcksn
+
+💬 Ask me about Flutter, Typescript
+
+📫 How to reach me imamwicaksonosuherman@gmail.com
+
+Languages and Tools:
+css3 figma git html5 javascript laravel mysql nextjs php postman react tailwind unity vuejs
+
+imawcksn
