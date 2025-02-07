@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Flutter Developer**
-
 - 👨‍💻 All of my projects are available at [linkedin](https://linkedin.com/in/imawcksn)
 
 - 💬 Ask me about **Flutter, TypeScript**
