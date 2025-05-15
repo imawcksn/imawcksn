@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My name is Imam!</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Mini Programs**
+- 🔭 I’m currently working on **Mini Programs, Flutter apps**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript**, **Codemagic**, **Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [linkedin](https://linkedin.com/in/imawcksn)
 
