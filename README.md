@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mini Programs, Flutter apps**
 
-- 🌱 I’m currently learning **TypeScript**, **Codemagic**, **Clean Architecture**
+- 🌱 I’m currently learning **TypeScript**, **Clean Architecture**, **Native Mobile Development**
 
 - 👨‍💻 All of my projects are available at [linkedin](https://linkedin.com/in/imawcksn)
 
